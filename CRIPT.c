@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdbool.h>
 
-// Configuração da Chave para criptografia
+// ConfiguraÃ§Ã£o da Chave para criptografia
 char CHAVE[500];
 int TAM_CHAVE;
 
